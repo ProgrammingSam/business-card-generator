@@ -25,6 +25,6 @@ rake generate         # Generate your business card
 
 Feel free to fork and custom.
 
-[Buy me a coffee](buymeacoff.ee/ProgrammingSam)
+[Buy me a coffee](https://buymeacoff.ee/ProgrammingSam)
 
 [![Resume](https://forthebadge.com/images/badges/built-with-love.svg)](https://programmingam.io)
