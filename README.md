@@ -14,7 +14,7 @@ Usage :
 -------------
 
 - Edit the config.yaml file with your personnal information;
-- Invoke the tasks defined in the rakefile to generate an invoice :
+- Invoke the tasks defined in the rakefile to generate your business card :
 
 ```
 rake -T
@@ -22,6 +22,9 @@ rake clean            # Remove any temporary products
 rake clobber          # Remove any generated file
 rake generate         # Generate your business card
 ```
+
 Feel free to fork and custom.
+
+[Buy me a coffee](buymeacoff.ee/ProgrammingSam)
 
 [![Resume](https://forthebadge.com/images/badges/built-with-love.svg)](https://programmingam.io)
