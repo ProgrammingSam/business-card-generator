@@ -2,8 +2,8 @@
 *.log
 *.gz
 *.pdf
+!example-eight-cards.pdf
+!example-one-card.pdf
 *.tex
 *.yaml
 !config.yaml
-!example-eight-cards.pdf
-!example-one-card.pdf
