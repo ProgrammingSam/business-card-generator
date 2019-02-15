@@ -1,0 +1,10 @@
+personnal_information:
+  address: "Tournai, Belgium"
+  email: "programmingsam@gmail.com"
+  extrainfo: "Make Internet great again"
+  homepage: "programmingsam.io"
+  logo_path: "logo.png"
+  name: "Sami Ben Abbés"
+  phone: "+33 (0)7 67 19 13 22"
+  qr_path: "qr_custom.png"
+  title: "Full-stack Web Developer"
