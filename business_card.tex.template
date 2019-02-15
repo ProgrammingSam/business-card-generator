@@ -1,0 +1,27 @@
+% Business card template
+\documentclass[11pt]{article}
+
+% Packages
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{business_card}
+
+% Custom colors
+\definecolor{uni}{HTML}{FF5857}
+
+% Variables
+\name{<%= CONFIG['personnal_information']['name'] %>}
+\title{<%= CONFIG['personnal_information']['title'] %>}
+\adress{<%= CONFIG['personnal_information']['address'] %>}
+\email{<%= CONFIG['personnal_information']['email'] %>}
+\phone{<%= CONFIG['personnal_information']['phone'] %>}
+\homepage{<%= CONFIG['personnal_information']['homepage'] %>}
+\extrainfo{<%= CONFIG['personnal_information']['extrainfo'] %>}
+\logo{<%= CONFIG['personnal_information']['logo_path'] %>}
+\qr{<%= CONFIG['personnal_information']['qr_path'] %>}
+
+
+\begin{document}
+	%\createonecard % Generate one card
+	\createcards %  Generate eight cards
+\end{document}
