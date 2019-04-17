@@ -27,4 +27,4 @@ Feel free to fork and custom.
 
 [Buy me a coffee](https://buymeacoff.ee/ProgrammingSam)
 
-[![Resume](https://forthebadge.com/images/badges/built-with-love.svg)](https://programmingam.io)
+[![Resume](https://forthebadge.com/images/badges/built-with-love.svg)](https://programmingsam.io)
